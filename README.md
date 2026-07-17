@@ -2,9 +2,7 @@
 
 **FALON** is a 2D platformer built in Unity, inspired by Metroidvania-style games. You play as Falon, an archer exploring an underground world split into several levels, each representing a different layer of the Earth. Fight enemies, collect coins and apples, and defeat the final boss to complete the game — or unlock the optional Secret Level by meeting extra requirements.
 
-![Start Menu](./Screenshots/poza-start.png)
-
-> Add your own screenshots to a `Screenshots/` folder in the repo root (start menu, a level in action, the game-over screen work well).
+![Start Menu](./Screenshots/poza_start.png)
 
 ## Tech Stack
 
